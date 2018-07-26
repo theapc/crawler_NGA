@@ -29,3 +29,5 @@ if __name__ == '__main__':
     crawler.dedupe_pid()
     crawler.dedupe_tid()
     log_file.close()
+    #finished
+
